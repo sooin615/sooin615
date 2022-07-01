@@ -8,8 +8,10 @@
 
  # 🌊 It's me!!
 <img src="https://img.shields.io/badge/ios_developer-F05138?style=flat-square&logo=Swift&logoColor=black"/>
-<img src="https://img.shields.io/badge/so._.in-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
 <a href="https://www.instagram.com/so._.in/"><img src="https://img.shields.io/badge/so._.in-E4405F?style=flat-square&logo=Instagram&logoColor=black"/></a>
+<a href="https://www.youtube.com/channel/UCxcYrEcWz--KgEo5VoKlR8A"><img src="https://img.shields.io/badge/Agiss-FF0000?style=flat-square&logo=Youtube&logoColor=black"/></a>
+
+
 
 
  
