@@ -4,7 +4,7 @@
 # 📊 Github Statistics
   
 [<img width=82.5% src="https://github-readme-stats.vercel.app/api?username=sooin615">](https://github.com/sooin615)
-[<img width=82.5% src="https://github-profile-trophy.vercel.app/?username=sooin615">](https://github.com/sooin615)  
+ 
 
  # 🌊 It's me!!
 <img src="https://img.shields.io/badge/ios_developer-F05138?style=flat-square&logo=Swift&logoColor=black"/>
