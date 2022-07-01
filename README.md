@@ -3,10 +3,10 @@
 ![header](https://github.com/sooin615/sooin615/blob/main/Nametag.svg?raw=true)  
 # 📊 Github Statistics
   
-  <img src="https://img.shields.io/badge/앱등이입니다!-000000?style=flat-square&logo=Apple&logoColor=black"/>
-
 [<img width=82.5% src="https://github-readme-stats.vercel.app/api?username=sooin615">](https://github.com/sooin615)
 [<img width=82.5% src="https://github-profile-trophy.vercel.app/?username=sooin615">](https://github.com/sooin615)  
+
+[<img src="https://img.shields.io/badge/앱등이입니다!-000000?style=flat-square&logo=Apple&logoColor=black"/>]
 
 &nbsp;
 # 🖥️ My Stacks
