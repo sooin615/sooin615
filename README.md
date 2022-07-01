@@ -8,7 +8,9 @@
 
  # 🌊 It's me!!
 <img src="https://img.shields.io/badge/ios_developer-F05138?style=flat-square&logo=Swift&logoColor=black"/>
-  <img src="https://img.shields.io/badge/so._.in-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
+<img src="https://img.shields.io/badge/so._.in-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
+  <a href="(https://www.instagram.com/so._.in/)"><img src="E4405F"/></a>
+
 
  
 
